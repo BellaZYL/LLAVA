@@ -80,7 +80,7 @@ cd LLaVA
 conda create -n llava python=3.10 -y
 conda activate llava
 pip install --upgrade pip  # enable PEP 660 support
-pip install -e .
+pip install -e .# 按照setup.py中的规则来安装相应的包
 ```
 
 3. Install additional packages for training cases
