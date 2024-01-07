@@ -97,6 +97,7 @@ pip install -e .
 ```
 
 ### Quick Start With HuggingFace
+###  Hugging Face 公司和社区，主要以自然语言处理（NLP）为重点，提供了许多优秀的预训练模型和工具库。
 
 <details>
 <summary>Example Code</summary>
